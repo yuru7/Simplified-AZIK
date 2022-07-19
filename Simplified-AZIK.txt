@@ -484,6 +484,7 @@ k;	くん
 l;	ぉん
 q;	くぁい
 r;	るう
+t;	つい
 c;	ちぇい
 p;	ぽう
 
@@ -572,6 +573,38 @@ yr	ゆう
 ryr	りゅう
 vr	ヴー
 
+lt	ぅい
+kyt	きゅい
+gyt	ぎゅい
+kt	くい
+gt	ぐい
+syt	しゅい
+xt	しゅい
+jt	じゅい
+zyt	じゅい
+st	すい
+zt	ずい
+ct	ちゅい
+tyt	ちゅい
+dyt	ぢゅい
+dt	づい
+nyt	にゅい
+nt	ぬい
+hyt	ひゅい
+byt	びゅい
+pyt	ぴゅい
+ft	ふい
+ht	ふい
+bt	ぶい
+pt	ぷい
+myt	みゅい
+mt	むい
+lyt	ゅい
+yt	ゆい
+rt	るい
+ryt	りゅい
+vt	ヴい
+
 lc	ぇい
 kyc	きぇい
 gyc	ぎぇい
@@ -634,3 +667,6 @@ yp	よう
 ryp	りょう
 rp	ろう
 vp	ヴぉー
+
+ds	です
+ms	ます
